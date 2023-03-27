@@ -1,0 +1,68 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  width: 80%;
+  background-color: rgb(49, 44, 44);
+  margin: auto;
+  border-radius: 20px;
+}
+
+.heading {
+  font-family: "Lobster", cursive;
+}
+#title {
+  font-size: 90px;
+  text-align: center;
+}
+#span1 {
+  color: red;
+}
+#img-div {
+  text-align: center;
+}
+#image {
+  width: 400px;
+  border-radius: 40px;
+}
+#info {
+  width: 80%;
+  margin: 50px auto;
+  text-align: justify;
+  font-size: 24px;
+  /* text-align: center; */
+}
+
+#marvel {
+  color: red;
+  margin-left: 100px;
+}
+
+#unorderedlist {
+  width: 80%;
+  margin: auto;
+}
+li {
+  font-size: 24px;
+  line-height: 50px;
+}
+#footer {
+  margin: 30px;
+  padding: 30px;
+  font-size: 30px;
+  /* text-align: center; */
+}
+#link {
+  text-decoration: none;
+  border: 1px solid orange;
+  padding: 30px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+#link:hover {
+  background-color: orangered;
+  color: black;
+}
